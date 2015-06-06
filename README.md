@@ -7,7 +7,7 @@ This snippet contains various valid and invalid comment implementations within a
 [//]: # (This comment will not be included.)
 [//]:#(This comment will show on the GitHub page.)
 
-<!-- This html comment will be displayed due to GitHub not supporting html tags -->
+<!-- This html comment will not be displayed on the GitHub page -->
 
 [//]: # (
 This comment will show up on GitHub because it includes line breaks. The line breaks themselves do not show up.
