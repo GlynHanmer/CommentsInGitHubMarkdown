@@ -5,7 +5,7 @@ This snippet contains various valid and invalid comment implementations within a
 [comment]: <> (This comment will show on the GitHub page.) 
 [//]: <> (This comment and the following comment will not be included within the source code of the GitHub page.)
 [//]: # (This comment will not be included.)
-[//]:#(This comment will show on the not be included.)
+[//]:#(This comment will show on the GitHub page.)
 
 <!-- This html comment will be displayed due to GitHub not supporting html tags -->
 
